@@ -1,12 +1,11 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Using int Variables III
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Power levels
 
 #include <iostream>
 using namespace std;
@@ -20,3 +19,5 @@ int main() {
 	cout << endl;
 	return 0;
 }
+
+// Yeah, I went with an old one here.
