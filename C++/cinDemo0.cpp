@@ -1,10 +1,9 @@
-/* ================================
- * Using 'cin' (Example 1)
- * ================================
+/* ===============================================
+ * C++ Input I
+ * ===============================================
  * 
  * Author: Satoki Nijikawa
- * Circle: Youkai Gekkou
- * Version: 0.01
+ * Version: 1.00a
  * 
  */
 
@@ -12,7 +11,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int x; // Initialises x
 	cout << "Please enter a number: "; // Enter a number and hit RETURN
 	cin >> x; // Input value
