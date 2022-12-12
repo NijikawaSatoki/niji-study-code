@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
 	int x, y; // Initialises x and y
-	int kotae; // Initialises kotae (答え 'kotae' means 'answer' in Japanese)
+	int kotae; // Initialises kotae
 	cout << "Please enter a number: ";
 	cin >> x;
 	cout << x << "+";
