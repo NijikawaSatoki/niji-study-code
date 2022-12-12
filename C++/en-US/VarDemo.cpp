@@ -8,7 +8,7 @@
  */
 
 #include <iostream>
-#include <string>
+#include <string>	// This is neccessary in order to use strings as variables
 using namespace std;
 
 int main() {
