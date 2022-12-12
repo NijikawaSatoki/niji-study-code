@@ -1,18 +1,16 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Using int Variables II
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Using the variable int (Example 2)
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int x = 5;
 	int y = 6;
 	int sum = x + y;
