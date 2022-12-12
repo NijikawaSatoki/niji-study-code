@@ -3,8 +3,7 @@
 ! ==========================================================
 ! 
 ! Author: Satoki Nijikawa
-! Language: Fortran 2018
-! Locale: en-US
+! Version: 1.00a
 
 program helloworld
      print *, "Hello, World!"
