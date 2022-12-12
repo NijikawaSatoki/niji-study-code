@@ -10,7 +10,7 @@
 #include <iostream>
 using namespace std; int main() { cout << "Hello world! "; cout << endl; return 0; }
 
-/* If you do anything like the above, the stop 
+/* If you do anything like the above, then stop 
  * writing code. Why? Because the above makes 
  * the code a pain to debug. Spaghetti code, of
  * all things, is better than writing your code 
