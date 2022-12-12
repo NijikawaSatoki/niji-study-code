@@ -1,20 +1,18 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Simple Calculator + Addition
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Simple Calculator (Addition)
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int x, y; // Initialises x and y
-	int kotae; // Initialises kotae
+	int kotae; // Initialises kotae (答え 'kotae' means 'answer' in Japanese)
 	cout << "Please enter a number: ";
 	cin >> x;
 	cout << x << "+";
