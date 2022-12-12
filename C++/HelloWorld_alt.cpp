@@ -2,9 +2,8 @@
  * Hello World
  * ================================
  * 
- *  Author: Satoki Nijikawa
- *  Circle: Youkai Gekkou
- * Version: 0.01 revision b
+ * Author: Satoki Nijikawa
+ * Version: 1.00
  * 
  */
 
