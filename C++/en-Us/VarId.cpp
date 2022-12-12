@@ -1,18 +1,16 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Variable Names
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Variable name practices
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world! ";
 	int minutesPerHour = 60; // This is a good variable identifier. It explains the data stored.
 	int m = 30; // This is a terrible variable identifier! What is "m" even describing?!
 	/* NOTICE!
