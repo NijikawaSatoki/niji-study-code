@@ -1,18 +1,16 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Using int Variables I
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Using the variable int (Example 1)
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int myAge = 35;
 	cout << "My age is " << myAge << " years old.";
 	cout << endl;
