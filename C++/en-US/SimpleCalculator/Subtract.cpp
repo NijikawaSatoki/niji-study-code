@@ -1,18 +1,16 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Simple Calculator - Subtraction
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Simple Calculator (Subtraction)
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int x, y; // Initialises x and y
 	int kotae; // Initialises kotae
 	cout << "Please enter a number: ";
