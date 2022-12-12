@@ -3,8 +3,7 @@
 *> =========================================================
 *> 
 *> Author: Satoki Nijikawa
-*> Language: COBOL 2014
-*> Locale: en-US
+*> Version: 1.00a
 
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
