@@ -3,7 +3,6 @@
 ( ========================================================== )
 (                                                            )
 ( Author: Satoki Nijikawa                                    )
-( Language: Forth 2012                                       )
-( Locale: en-US                                              )
+( Version: 1.00a                                             )
 
 : HELLO  ( -- )  CR ." Hello, World!" ;
