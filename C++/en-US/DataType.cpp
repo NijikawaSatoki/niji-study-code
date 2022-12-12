@@ -1,19 +1,17 @@
 /* ===============================================
- * 学ぶターミナルアプリ００　v0.01a
+ * Data Types
  * ===============================================
  *
- * 制作者：虹川郷鬼
+ * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// データタイプ | Data types
 
 #include <iostream>
 #include <string>
 using namespace std;
 
 int main() {
-	cout << "世界、こんにちは！" << endl;
 	int myNum = 5; // 整数
 	cout << "あたしの数字は" << myNum << "です" << endl;
 	float myFloatNum = 5.99; // 浮動小数点
