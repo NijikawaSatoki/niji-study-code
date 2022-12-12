@@ -1,17 +1,17 @@
 /* =====================================================================
- * Learning Project 00 v0.01a
+ * DUCK
  * =====================================================================
  *
  * Author: Satoki Nijikawa
  *
  */
 
-// Starting code
+// This is only if you compile and run this on Linux.
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!";
+	cout << "DUCK!! >_<";
 	return 0;
 }
