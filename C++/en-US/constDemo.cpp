@@ -1,10 +1,9 @@
-/* =====================================================================
+/* ===============================================
  * Using Constants
- * =====================================================================
+ * ===============================================
  *
  * Author: Satoki Nijikawa
- * Circle: Youkai Gekkou
- * Version: 0.01
+ * Version: 1.00a
  *
  */
 
@@ -12,7 +11,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	const int minutesPerHour = 60; // Variable 'minutesPerHour' is set to 60
 	cout << "There are " << minutesPerHour << " minutes in an hour." << endl;
 	const float PI = 3.14; // Variable 'PI' is set to 3.14
