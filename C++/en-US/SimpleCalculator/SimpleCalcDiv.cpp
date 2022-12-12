@@ -1,20 +1,18 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Simple Calculator / Division
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 
  *
  */
-
-// Simple Calculator (Division)
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int x, y; // Initialises x and y
-	float kotae; // Initialises kotae
+	float kotae; // Initialises kotae (答え 'kotae' means 'answer' in Japanese)
 	cout << "Please enter a number: ";
 	cin >> x;
 	cout << x << "/";
