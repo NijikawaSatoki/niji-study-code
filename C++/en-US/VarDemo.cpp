@@ -1,19 +1,17 @@
-/* =====================================================================
- * Learning Project 00 v0.01a
- * =====================================================================
+/* ===============================================
+ * Using Variables
+ * ===============================================
  *
  * Author: Satoki Nijikawa
+ * Version: 1.00a
  *
  */
-
-// Using variables
 
 #include <iostream>
 #include <string>
 using namespace std;
 
 int main() {
-	cout << "Hello world!" << endl;
 	int myNum = 5; // Stores a number without the decimal point
 	cout << "My number is " << myNum << "." << endl;
 	double myFloatNum = 5.99; // Stores a number with the decimal point
