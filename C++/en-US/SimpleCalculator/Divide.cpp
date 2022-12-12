@@ -3,7 +3,7 @@
  * ===============================================
  *
  * Author: Satoki Nijikawa
- * Version: 
+ * Version: 1.00a
  *
  */
 
@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
 	int x, y; // Initialises x and y
-	float kotae; // Initialises kotae (答え 'kotae' means 'answer' in Japanese)
+	float kotae; // Initialises kotae
 	cout << "Please enter a number: ";
 	cin >> x;
 	cout << x << "/";
