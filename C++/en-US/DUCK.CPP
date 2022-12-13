@@ -16,8 +16,8 @@ int main() {
 	return 0;
 }
 
-// Outputs ends up being
-/*  [satoki@example test]$ ./DUCK
+/* Output ends up being
+ *  [satoki@example test]$ ./DUCK
  *  DUCK!! >_<[satoki@example test]$ 
  * on Linux. In Termux it would be like this:
  *  ~/test/ $ ./DUCK
