@@ -240,7 +240,7 @@ set linenumbers
 
 ## To include most of the existing syntax definitions, you can do:
 # include "/usr/share/nano/*.nanorc"
-include "usr/share/nano/asm.nanorc"
+include "/usr/share/nano/asm.nanorc"
 include "/usr/share/nano/autoconf.nanorc"
 include "/usr/share/nano/awk.nanorc"
 include "/usr/share/nano/c.nanorc"
