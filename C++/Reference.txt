@@ -37,9 +37,9 @@ const: Constant. Makes a variable read-only.
 >=: Is greater than or equal to. Compares two values to determine if one value is greater than or equal to the other, e.g. x = 60 >= 6.
 <=: Is less than or equal to. Compares two values to determine if one value is less than or equal to the other, e.g. x = 52 <= 59.
 !: Logical NOT. Inverts the Boolean state of the operand, e.g. x = !(52 == 52) or x = !(17 >= 30).
-   Best visualised with 0's and 1's, e.g. !1 outputs 0 (false), while !0 outputs 1 (true).
-&&: Logical AND.
-||: Logical OR.
+   Best visualised with 0's and 1's, e.g. (base-2) !1 outputs 0 (false), while !0 outputs 1 (true).
+&&: Logical AND. Outputs true if both operands are true, otherwise outputs false, e.g. x = (3 < 13) && (49 >= 26).
+||: Logical OR. Outputs true if either operand is true, only outputs false when both operands are false, e.g. x = (29 == 85) || (20 != 88).
                               VARIABLE TYPES
                                  FUNCTIONS
 pow(): Power. Used for calculating exponentiation. From <cmath> library.
