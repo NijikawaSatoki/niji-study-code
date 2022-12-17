@@ -1,12 +1,13 @@
-                             #################
-                             #               #
-                             # C++ REFERENCE #
-                             #               #
-                             #################
+###########################################################################
+#                                                                         #
+#                              C++ REFERENCE                              #
+#                                                                         #
+###########################################################################
                                  LIBRARIES
 <iostream>: Standard library. Must be used for all code written in C++.
 <string>: Library that allows strings to be used as variables.
-<cmath>: C library for mathematics. Required for functions needed to perform complex mathematical calculations.
+<cmath>: C library for mathematics. Required for functions needed to
+         perform complex mathematical calculations.
                                  KEYWORDS
 cout: C output. Prints the output. Used with the << operator.
 cin: C input. Accepts user input and store inputted data as a declared variable. Used with the >> operator.
