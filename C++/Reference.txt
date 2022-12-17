@@ -69,6 +69,9 @@ const: Constant. Makes a variable read-only.
     false, e.g. x = (3 < 13) && (49 >= 26).
 ||: Logical OR. Outputs true if either operand is true, only outputs false
     when both operands are false, e.g. x = (29 == 85) || (20 != 88).
+?: Conditional ternary. Evaluates an expression, returning one value if
+   that expression evaluates to true, and a different one if the expression
+   evaluates as false.
                               VARIABLE TYPES
 int: Integer. Used for storing whole numbers.
 float: Floating point number with maximum of 6-7 decimal spaces. Used for
