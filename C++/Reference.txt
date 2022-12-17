@@ -1,0 +1,48 @@
+                             #################
+                             #               #
+                             # C++ REFERENCE #
+                             #               #
+                             #################
+                                 LIBRARIES
+<iostream>: Standard library. Must be used for all code written in C++.
+<string>: Library that allows strings to be used as variables.
+<cmath>: C library for mathematics. Required for functions needed to perform complex mathematical calculations.
+                                 KEYWORDS
+cout: C output. Prints the output. Used with the << operator.
+cin: C input. Accepts user input and store inputted data as a declared variable. Used with the >> operator.
+const: Constant. Makes a variable read-only.
+                                 OPERATORS
+=: Assignment. Used for assigning values to variables, e.g. x = 5. Can also be used to assign the value of a variable to other variables, e.g. x = y.
++: Addition. Adds two values together, e.g. x = 77 + 99. Can also be used to concatenate two string variables together.
+-: Subtraction. Subtracts two values from one another, e.g. x = 70 - 76. Resulting int variable must be signed to allow output of negative numbers.
+*: Multiplication. Multiplies values together, e.g. x = 28 * 26. Beware that result of such calculations can be a large number.
+/: Division. Divides values, e.g. x = 6 / 5. Best used with float or double output.
+%: Modulus. Fetches the remainder of a division operation, e.g. x = 63 % 52. Will not work with floating point arithmetic.
++=: Addition assignment. Adds to variable's current value then reassigns that variable to result value, e.g. x += 25.
+-=: Subtraction assignment. Subtracts from variable's current value then reassigns that variable to result value, e.g. x -= 78.
+*=: Multiplication assignment. Multiplies variable's current value then reassigns that variable to result value, e.g. x *= 91.
+/=: Division assignment. Divides variable's current value then reassigns that variable to result value, e.g. x /= 87.
+%=: Modulus assignment. Divides variable's current value and reassigns value to remainder, e.g. x %= 57.
+>>=: SHIFT RIGHT assignment. Performs a bit-shift right then reassigns variable to new value, e.g. x >>= 16.
+<<=: SHIFT LEFT assignment. Performs a bit-shift left then reassigns variable to new value, e.g. x <<= 62.
+&=: AND assignment. Performs logical AND then reassigns variable to new value, e.g. x &= 93 or x &= y.
+^=: XOR assignment. Performs logical XOR then reassigns variable to new value, e.g. x ^= 25 or x ^= y.
+|=: OR assignment. Performs logical OR then reassigns variable to new value, e.g. x |= 34 or x |= y.
+++: Increment. Increments the variable's value, e.g. x ++ 65.
+--: Decrement. Decrements the variable's value, e.g. x -- 39.
+==: Is equal to. Compares two values to determine if both are exactly the same value, e.g. x = 27 == 27.
+!=: Is not equal to. Compares two values to determine if both are not exactly the same value, e.g. x = 63 != 21.
+>: Is greater than. Compares two values to determine if one value is greater than the other, e.g. x = 96 > 3.
+<: Is less than. Compares two values to determine if one value is less than the other, e.g. x = 65 < 68.
+>=: Is greater than or equal to. Compares two values to determine if one value is greater than or equal to the other, e.g. x = 60 >= 6.
+<=: Is less than or equal to. Compares two values to determine if one value is less than or equal to the other, e.g. x = 52 <= 59.
+!: Logical NOT. Inverts the Boolean state of the operand, e.g. x = !(52 == 52) or x = !(17 >= 30).
+   Best visualised with 0's and 1's, e.g. !1 outputs 0 (false), while !0 outputs 1 (true).
+&&: Logical AND.
+||: Logical OR.
+                              VARIABLE TYPES
+                                 FUNCTIONS
+pow(): Power. Used for calculating exponentiation. From <cmath> library.
+floor(): Floor. Used for rounding down the output of a division operation. From <cmath> library.
+fmod(): Floating point modulus. Same thing as % operator, but works with floating point arithmetic.
+                             ESCAPE SEQUENCES
