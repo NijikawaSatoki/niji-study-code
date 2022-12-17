@@ -70,6 +70,14 @@ const: Constant. Makes a variable read-only.
 ||: Logical OR. Outputs true if either operand is true, only outputs false
     when both operands are false, e.g. x = (29 == 85) || (20 != 88).
                               VARIABLE TYPES
+int: Integer. Used for storing whole numbers.
+float: Floating point number with maximum of 6-7 decimal spaces. Used for
+       storing numbers with a decimal point.
+double: Floating point number with maximum of 15 decimal spaces. Used for
+        storing numbers with a decimal point.
+char: Character. Used for storing characters.
+string: String. Used for storing strings. Requires the <string> library.
+bool: Boolean. Used for storing the IO state.
                                  FUNCTIONS
 pow(): Power. Used for calculating exponentiation. From <cmath> library.
 floor(): Floor. Used for rounding down the output of a division operation.
