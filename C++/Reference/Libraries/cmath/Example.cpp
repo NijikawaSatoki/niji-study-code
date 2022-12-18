@@ -4,14 +4,14 @@ using namespace std;
 
 int main() {
   int bit0, bit1, bit2, bit3, bit4, bit5, bit6, bit7;
-  bit0 = pow(2, 0);
-  bit1 = pow(2, 1);
-  bit2 = pow(2, 2);
-  bit3 = pow(2, 3);
-  bit4 = pow(2, 4);
-  bit5 = pow(2, 5);
-  bit6 = pow(2, 6);
-  bit7 = pow(2, 7);
+  bit0 = pow(2, 0); // 00000001
+  bit1 = pow(2, 1); // 00000010
+  bit2 = pow(2, 2); // 00000100
+  bit3 = pow(2, 3); // 00001000
+  bit4 = pow(2, 4); // 00010000
+  bit5 = pow(2, 5); // 00100000
+  bit6 = pow(2, 6); // 01000000
+  bit7 = pow(2, 7); // 10000000
   cout << "The powers of 2 are :" << endl;
   cout << "2^0 = " << bit0 << "\t\t00000001" << endl;
   cout << "2^1 = " << bit1 << "\t\t00000010" << endl;
