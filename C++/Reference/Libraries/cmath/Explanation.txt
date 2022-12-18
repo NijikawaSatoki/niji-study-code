@@ -1,0 +1,7 @@
+Library name: cmath
+Long name (if applicable): C Math
+
+A C library used for advanced mathematical calculations. Despite being a C library, it is certainly quite usable in C++.
+
+Code:
+  #include <cmath>
