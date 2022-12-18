@@ -1,0 +1,7 @@
+Library name: string
+Long name (if applicable): String
+
+A library for C++ that allows strings to be used as variables.
+
+Code:
+  #include <string>
