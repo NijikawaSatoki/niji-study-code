@@ -1,7 +1,7 @@
 Library name: iostream
 Long name (if applicable): Input/Ouput Stream
 
-This is the standard library for C++.
+This is the standard library for C++. It required to be present in ALL code written in C++.
 
 Code:
   #include <iostream>
